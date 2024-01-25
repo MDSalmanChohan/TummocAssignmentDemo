@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TummocAssignment</string>
+    <string-array name="precision_options">
+        <item>seconds</item>
+        <item>milliseconds</item>
+    </string-array>
+</resources>
